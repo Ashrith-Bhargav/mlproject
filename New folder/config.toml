@@ -1,9 +1,0 @@
-[server]
-headless = true
-port = 10000
-enableCORS = false
-maxUploadSize = 200  # MB (for your CSV uploads)
-
-[browser]
-serverAddress = "0.0.0.0"
-gatherUsageStats = false
